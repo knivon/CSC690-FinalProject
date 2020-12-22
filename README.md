@@ -1,6 +1,6 @@
 # CSC690-FinalProject
 
-Project Goal: to create some kind of picture/ video app where users are able to post text entries as well. Data method used: Firebase
+Project Goal: to create some kind of picture/ video app where users are able to post text entries as well. 
 
 The purpose of this project is to challenge our knownledge on how to implement different features in an app all while being able tp save data.
 
